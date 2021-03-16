@@ -1,6 +1,6 @@
 # BT.Finance Contracts
 
- 
+ 智能合约
 
 **BTToken:**[0x76c5449F4950f6338A393F53CdA8b53B0cd3Ca3a](https://etherscan.io/address/0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a)  
 
